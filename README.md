@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrUjjwal19
 - 👀 I’m interested in ...Football⚽️
-- 🌱 I’m currently learning ...Full Stack Development 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Kubernetes 
+- 💞️ I’m looking to collaborate on ...Kubernetes contribution via open source
 - 📫 How to reach me ... Drop a message on my mail or linkedin
 
 <!---
